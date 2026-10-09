@@ -224,7 +224,7 @@ The boilerplate is now **complete and ready to use**:
 ## Repository
 
 ✅ All changes committed and pushed to:
-**https://github.com/devSahinur/nodejs-backend-boilerplate**
+**https://github.com/SahinurDEV/nodejs-backend-boilerplate**
 
 ---
 
@@ -245,5 +245,5 @@ The boilerplate template is now **100% functional** with:
 ---
 
 **Fixed By**: Claude Code
-**Repository**: https://github.com/devSahinur/nodejs-backend-boilerplate
+**Repository**: https://github.com/SahinurDEV/nodejs-backend-boilerplate
 **Branch**: main

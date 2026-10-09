@@ -263,4 +263,4 @@ The automated log reporting system is **production-ready** and fully functional.
 
 **Test Conducted By**: Claude Code
 **Test Environment**: macOS (Darwin 23.5.0), Node.js v21.7.1
-**Repository**: https://github.com/devSahinur/nodejs-backend-boilerplate
+**Repository**: https://github.com/SahinurDEV/nodejs-backend-boilerplate

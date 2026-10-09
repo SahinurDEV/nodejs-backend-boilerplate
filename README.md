@@ -2,8 +2,8 @@
 
 A **professional, universal, production-ready Node.js backend boilerplate** built with Express, MongoDB, Redis, and comprehensive features to power any application (SaaS, e-commerce, blog, etc.).
 
-[![CI/CD](https://github.com/devSahinur/nodejs-backend-boilerplate/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/devSahinur/nodejs-backend-boilerplate/actions)
-[![codecov](https://codecov.io/gh/devSahinur/nodejs-backend-boilerplate/branch/main/graph/badge.svg)](https://codecov.io/gh/devSahinur/nodejs-backend-boilerplate)
+[![CI/CD](https://github.com/SahinurDEV/nodejs-backend-boilerplate/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/SahinurDEV/nodejs-backend-boilerplate/actions)
+[![codecov](https://codecov.io/gh/SahinurDEV/nodejs-backend-boilerplate/branch/main/graph/badge.svg)](https://codecov.io/gh/SahinurDEV/nodejs-backend-boilerplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
@@ -141,7 +141,7 @@ This is the **easiest way** to get started. Docker will handle MongoDB, Redis, a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/devSahinur/nodejs-backend-boilerplate.git
+   git clone https://github.com/SahinurDEV/nodejs-backend-boilerplate.git
    cd nodejs-backend-boilerplate
    ```
 
@@ -205,7 +205,7 @@ If you prefer to run services locally without Docker:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/devSahinur/nodejs-backend-boilerplate.git
+   git clone https://github.com/SahinurDEV/nodejs-backend-boilerplate.git
    cd nodejs-backend-boilerplate
    ```
 
@@ -1677,7 +1677,7 @@ This project is licensed under the MIT License.
 
 - 📧 **Email**: support@yourapp.com
 - 💬 **Discord**: [Join our server](https://discord.gg/yourserver)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/devSahinur/nodejs-backend-boilerplate/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/SahinurDEV/nodejs-backend-boilerplate/issues)
 - 📚 **Docs**: [Full Documentation](https://docs.yourapp.com)
 
 ## Acknowledgments
@@ -1694,4 +1694,4 @@ This project is licensed under the MIT License.
 
 **Built with ❤️ for developers by developers**
 
-Need help? [Open an issue](https://github.com/devSahinur/nodejs-backend-boilerplate/issues) or check our [FAQ](https://docs.yourapp.com/faq)
+Need help? [Open an issue](https://github.com/SahinurDEV/nodejs-backend-boilerplate/issues) or check our [FAQ](https://docs.yourapp.com/faq)
